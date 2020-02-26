@@ -1,2 +1,2 @@
-# MachineLearning
+# Machine Learning
 경기대학교 머신러닝 강의 
